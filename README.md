@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Max 👋
 
-#### I'm a curious & fun Developer from Argentina.
+#### A curious & fun Developer from Argentina.
 
 ##### NOW
 
