@@ -9,11 +9,11 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css` , due to personal projects ideas. 
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css` 
 - 🌍 Cloud native + Machine learning is something I'm interested in.
 - 💅 8 Years in IT industry (more or less)
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Development**, **React Native** , **DevOps Culture**, **GCPplatform**, **Design thinking**
+- 💬 Ping me about **Development**, **React Native** , **DevOps Culture**, **GCP**, **Design thinking**
 - 📫 Reach me: [https://www.linkedin.com/in/maximiliano-herrera-10626a180/](https://www.linkedin.com/in/maximiliano-herrera-10626a180/)
 - ⚡️ Fun fact: Lover of The Lord of The Rings movies.
 
