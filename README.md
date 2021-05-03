@@ -1,6 +1,6 @@
 ### Hi there! I'm Max 👋
 
-#### A curious & fun Developer from Argentina.
+#### A curious & fun Developer with DevOps 'features' from Argentina.
 
 ##### NOW
 
