@@ -35,8 +35,9 @@
 - 🧙 Fun fact: Lover of The Lord of The Rings movies.
 
 
-##### COURSES
+##### SOME COURSES
 
 - [Amazon AWS: Complete Certified Solutions Architect Course)](https://www.udemy.com/course/amazon-aws-curso-arquitecto-soluciones-certificado-associate/)
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [Docker](https://www.pluralsight.com/courses/play-by-play-docker-java-developers-arun-gupta-michael-hoffman)
 - [Python3 certificate](https://www.sololearn.com/Certificate/1073-13318317/pdf/)
