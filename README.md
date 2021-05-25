@@ -31,7 +31,7 @@
 - 😃 8 Years in IT industry (more or less)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about  **DevOps Culture**, **GCP**, **Design thinking**,**Mobile Development**, **React Native** 
-- 📫 Reach me: [https://www.linkedin.com/in/maximiliano-herrera-10626a180/](On LinkedIn)
+- 📫 Reach me: [https://www.linkedin.com/in/maximiliano-herrera-10626a180/] (On LinkedIn)
 - 🧙 Fun fact: Lover of The Lord of The Rings movies.
 
 
