@@ -37,6 +37,6 @@
 
 ##### COURSES
 
-- [https://www.udemy.com/course/amazon-aws-curso-arquitecto-soluciones-certificado-associate/] (Amazon AWS: Complete Certified Solutions Architect Course)
-- [https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/] (Certified Kubernetes Administrator (CKA) with Practice Tests)
-- [https://www.sololearn.com/Certificate/1073-13318317/pdf/] (Python3 certificate)
+- [Amazon AWS: Complete Certified Solutions Architect Course)](https://www.udemy.com/course/amazon-aws-curso-arquitecto-soluciones-certificado-associate/)
+- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [Python3 certificate](https://www.sololearn.com/Certificate/1073-13318317/pdf/)
