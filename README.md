@@ -25,16 +25,17 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css` 
 - ⭐ Familiar with :  
-       WS Cloud EKS,ECS,S3,IAM , API Gateway, Route53. 
-       Elastic Search Jenkins, Terraform.
-       Bash, Pwshell, Python. 
-       Orchestration like Kubernetes & Docker Compose.
-- 🌍 Cloud native + Machine learning is something I'm interested in.
-- 😃 8 Years in IT industry (more or less)
+       WS Cloud EKS,ECS, API Gateway. 
+       Jenkins, 
+       IaC Terraform & Ansible
+       Bash, Pwshell, Python.
+       Docker Compose.
+       Orchestration like Kubernetes. 
+- 🌍 Cloud native + Machine learning is something I'm also interested in.
+- 😃 8 Years in IT industry.
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about  **DevOps Culture**, **GCP**, **Design thinking**,**Mobile Development**, **React Native** 
+- 💬 Ping me about  **DevOps Culture**, **AWS**, **Automate Process**,**Mobile Development**, **React Native** 
 - 📫 Reach me: [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-10626a180/)
 - 🧙 Fun fact: Lover of The Lord of The Rings movies.
 
