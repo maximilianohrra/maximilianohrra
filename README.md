@@ -1,7 +1,7 @@
 
 ## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   I'm Max 
 
-#### A curious & fun guy with DevOps 'features' from Argentina
+#### A curious & fun guy with DevOps 'features' from Argentina 
 
 <code><img height="40" src="https://avatars.githubusercontent.com/u/28900900?v=4"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
