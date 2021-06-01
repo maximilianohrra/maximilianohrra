@@ -26,12 +26,13 @@
 ##### BIO
 
 - ⭐ Familiar with :  
-       WS Cloud EKS,ECS, API Gateway. 
+       AWS Cloud EKS,ECS, API Gateway. 
        Jenkins, 
        IaC Terraform & Ansible
        Bash, Pwshell, Python.
        Docker Compose.
        Orchestration like Kubernetes. 
+       -
 - 🌍 Cloud native + Machine learning is something I'm also interested in.
 - 😃 8 Years in IT industry.
 - 🌱 Learning all about **Open Source**
