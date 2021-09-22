@@ -42,8 +42,8 @@
 
 ##### PRACTICE: CI/CD PIPE - INTEGRATION WITH BITBUCKET ON DO DROPLET
 https://bitbucket.org/maximilianhra/remindit-android/src/develop/
-user: maximilian.hra@gmail.com
-pass: 25118805
+- user: maximilian.hra@gmail.com
+- pass: 25118805
 
 ##### SOME COURSES
 
