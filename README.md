@@ -20,7 +20,7 @@
 
 ##### NOW
 
-- ✨ Looking for a new Challenge!, in the meantime creating a mobile APP based on ReactNative + Firebase and some other magic stuff.
+- ✨ Improving my DevOps skills
 
 
 ##### BIO
