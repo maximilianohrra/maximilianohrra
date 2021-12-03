@@ -38,7 +38,9 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about  **DevOps Culture**, **AWS**, **Automate Process**,**Mobile Development**, **React Native** 
 - 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-10626a180/)
+- 👓 Interesting fact: now a days I'm studing german lenguage.
 - 🧙 Fun fact: Lover of The Lord of The Rings movies. Also ⚽ fan
+
 
 ##### PRACTICE: CI/CD PIPE - INTEGRATION WITH BITBUCKET ON DO DROPLET
 https://bitbucket.org/maximilianhra/remindit-android/src/develop/
