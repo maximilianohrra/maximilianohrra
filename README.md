@@ -5,7 +5,7 @@
 
 <code><img height="40" src="https://avatars.githubusercontent.com/u/28900900?v=4"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+<code><img height="40" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"></code>
