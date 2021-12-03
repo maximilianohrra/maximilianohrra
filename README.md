@@ -2,16 +2,19 @@
 ## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   I'm Max 
 
 #### A curious & fun guy with DevOps 'features' from Argentina 
+<code><img height="30" src="https://responsivedesign.is/wp-content/uploads/2020/06/digitalocean-logo.jpg"></code>
+<code><img height="50" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></code>
 
 <code><img height="40" src="https://avatars.githubusercontent.com/u/28900900?v=4"></code>
-<code><img height="40" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-1.png"></code>
-<code><img height="40" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://dev.socialidnow.com/images/1/16/Postman.png"></code>
+
+
 
 
 ##### NOW
@@ -22,19 +25,20 @@
 ##### BIO
 
 - ⭐ Familiar with :  
-       AWS Cloud EKS,ECS, API Gateway. 
-       Jenkins, 
-       IaC Terraform & Ansible
-       Bash, Pwshell, Python.
-       Docker Compose.
-       Orchestration like Kubernetes. 
-       -
+              - GCP, DO, cloud (AWS in minor way, but still).
+              - IaC Terraform & Ansible.
+              - Orchestration like Kubernetes.
+              - Docker.
+              - Integration: Jenkins, BB bucket.
+              - Bash scripting.
+
+      
 - 🌍 Cloud native + Machine learning is something I'm also interested in.
-- 😃 8 Years in IT industry.
+- 😃 8 Years in IT industry. (I started as IT support man)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about  **DevOps Culture**, **AWS**, **Automate Process**,**Mobile Development**, **React Native** 
 - 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-10626a180/)
-- 🧙 Fun fact: Lover of The Lord of The Rings movies.
+- 🧙 Fun fact: Lover of The Lord of The Rings movies. Also ⚽ fan
 
 ##### PRACTICE: CI/CD PIPE - INTEGRATION WITH BITBUCKET ON DO DROPLET
 https://bitbucket.org/maximilianhra/remindit-android/src/develop/
