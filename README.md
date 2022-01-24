@@ -4,6 +4,7 @@
 #### A curious, enthusiastic & fun guy with DevOps 'features' from Argentina ✋😄
 <code><img height="55" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
 
 <code><img height="30" src="https://avatars.githubusercontent.com/u/28900900?v=4"></code>
@@ -20,7 +21,7 @@
 
 ##### NOW
 
-- ✨ Improving my DevOps skills
+- ✨ Improving my DevOps skills, working for Grupo Werthein
 
 
 ##### BIO
@@ -30,14 +31,14 @@
               - IaC Terraform & Ansible.
               - Orchestration like Kubernetes.
               - Docker.
-              - Integration: Jenkins, BB bucket.
-              - Bash scripting.
+              - Integration: Bitbucket, Jenkins.
+              - Bash
 
       
 - 🌍 Cloud native + Machine learning is something I'm also interested in.
 - 😃 8 Years in IT industry. (I started as IT support man)
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about  **DevOps Culture**, **AWS**, **Automate Process**,**Mobile Development**, **React Native** 
+- 💬 Ping me about  **DevOps Culture**, **Automation Processes**, **IaC**,**DevOps on Mach. Learning & Data Science** 
 - 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-10626a180/)
 - 👓 Interesting fact: now a days I'm studing german lenguage.
 - 🧙 Fun fact: Lover of The Lord of The Rings movies. Also ⚽ fan
