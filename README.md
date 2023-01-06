@@ -26,12 +26,12 @@
 ##### BIO
 
 - ⭐ Familiar with :  
-- GCP, Digital Ocean (AWS in minor way, but still).
-- IaC: Terraform & Ansible.
-- Orchestration: like Kubernetes.
-- Docker.
-- CI/CD: Bitbucket & Bitbucket pipelines, Jenkins.
-- Bash Scripting
+      - GCP, Digital Ocean (AWS in minor way, but still).
+      - IaC: Terraform & Ansible.
+      - Orchestration: like Kubernetes.
+      - Docker.
+      - CI/CD: Bitbucket & Bitbucket pipelines, Jenkins.
+      - Bash Scripting
 
       
 - 🌍 Cloud native + Machine learning is something I'm also interested in.
