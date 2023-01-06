@@ -20,7 +20,7 @@
 
 ##### NOW
 
-- ✨ Improving my DevOps skills
+- ✨ Improving my DevOps skills every single day!
 
 
 ##### BIO
