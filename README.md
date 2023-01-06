@@ -20,33 +20,33 @@
 
 ##### NOW
 
-- ✨ Improving my DevOps skills, working for Grupo Werthein
+- ✨ Improving my DevOps skills
 
 
 ##### BIO
 
 - ⭐ Familiar with :  
-              - GCP, DO, cloud (AWS in minor way, but still).
-              - IaC Terraform & Ansible.
-              - Orchestration like Kubernetes.
+              - GCP, Digital Ocean (AWS in minor way, but still).
+              - IaC: Terraform & Ansible.
+              - Orchestration: like Kubernetes, Helm
               - Docker.
-              - Integration: Bitbucket, Jenkins.
-              - Bash
+              - CI/CD: Bitbucket & Bitbucket pipelines, Jenkins.
+              - Bash Scripting
 
       
 - 🌍 Cloud native + Machine learning is something I'm also interested in.
-- 😃 8 Years in IT industry. (I started as IT support man)
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about  **DevOps Culture**, **Automation Processes**, **IaC**,**DevOps on Mach. Learning & Data Science** 
-- 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-10626a180/)
-- 👓 Interesting fact: nowadays I'm studing german lenguage.
+- 😃 9 Years in IT industry. (I started as IT guy)
+- 🌱 Learning all about **Open Source** **ArgoCD** **Lens** **Monitoring with Prometheus**
+- 💬 Ping me about  **DevOps Culture**, **Automation Processes**, **IaC**.
+- 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-devops/)
+- 👓 Interesting fact: nowadays I'm studing german lenguage. 
 - 🧙 Fun fact: Lover of The Lord of The Rings movies. Also ⚽ fan
 
 
-##### PRACTICE: CI/CD PIPE - INTEGRATION WITH BITBUCKET ON DO DROPLET
-https://bitbucket.org/maximilianhra/remindit-android/src/develop/
 
-##### SOME COURSES
+
+
+##### SOME COURSES & Certifications
 
 - [Python3 certificate](https://www.sololearn.com/Certificate/1073-13318317/pdf/)
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
