@@ -35,7 +35,7 @@
 
       
 - 🌍 Cloud native + Machine learning is something I'm also interested in.
-- 😃 9 Years in IT industry. (I started as IT guy)
+- 😃 9 Years in IT industry. (I started as IT support guy)
 - 🌱 Learning all about **Open Source** **ArgoCD** **Lens** **Monitoring with Prometheus**
 - 💬 Ping me about  **DevOps Culture**, **Automation Processes**, **IaC**.
 - 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-devops/)
