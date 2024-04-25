@@ -26,17 +26,18 @@
 ##### BIO
 
 - ⭐ Familiar with :  
-      - GCP, Digital Ocean (AWS in minor way, but still).
+      - GCP, Digital Ocean, Azure DevOps (AWS in minor way, but still).
       - IaC: Terraform & Ansible.
-      - Orchestration: like Kubernetes.
+      - Kubernetes Orchestration.
       - Docker.
-      - CI/CD: Bitbucket & Bitbucket pipelines, Jenkins.
+      - CI/CD: Bitbucket & Bitbucket pipelines, Jenkins, Azure pipelines, Github Actions.
       - Bash Scripting
+      - Monitoring: k9s, Grafana, AzureLog Analytics
 
       
 - 🌍 Cloud native + Machine learning is something I'm also interested in.
 - 😃 9 Years in IT industry. (I started as IT support guy)
-- 🌱 Learning all about **Open Source** **ArgoCD** **Lens** **Monitoring with Prometheus**
+- 🌱 Learning all about **Open Source**
 - 💬 Ping me about  **DevOps Culture**, **Automation Processes**, **IaC**.
 - 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-devops/)
 - 👓 Interesting fact: nowadays I'm studing german lenguage. 
