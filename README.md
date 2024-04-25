@@ -4,7 +4,7 @@
 #### A curious, enthusiastic & fun guy with DevOps 'features' ✋😄
 <code><img height="55" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="40" src="https://miro.medium.com/v2/resize:fit:800/1*Ome-oSxDNx7mQxJFZJ-NJg.png"></code>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="35" src="https://avatars.githubusercontent.com/u/28900900?v=4"></code>
