@@ -35,7 +35,7 @@
       - Monitoring: k9s, Grafana, AzureLog Analytics
 
       
-- 🌍 Cloud native + Machine learning is something I'm also interested in.
+- 🌍 Automation + IA + Machine learning is something I'm also interested in.
 - 😃 9 Years in IT industry. (I started as IT support guy)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about  **DevOps Culture**, **Automation Processes**, **IaC**.
