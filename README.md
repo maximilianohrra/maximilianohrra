@@ -45,7 +45,7 @@
 
       
 - 🌍 Automation + IA + Machine learning is something I'm also interested in.
-- 😃 9 Years in IT industry. (I started as IT support guy)
+- 🍻 Currently working in Germany
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about  **DevOps Culture**, **Automation Processes**, **IaC**.
 - 📫 Reach me [On LinkedIn](https://www.linkedin.com/in/maximiliano-herrera-devops/)
