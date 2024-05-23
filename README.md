@@ -2,12 +2,6 @@
 ## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   I'm Max 
 
 #### A curious, enthusiastic & fun guy with DevOps 'features' ✋😄
-<code><img height="55" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg"></code>
-<code><img height="40" src="https://www.splunk.com/content/dam/splunk-blogs/images/de_de/2022/7/microsoft-azure.png"></code>
-
-<code><img height="40" src="https://miro.medium.com/v2/resize:fit:800/1*Ome-oSxDNx7mQxJFZJ-NJg.png"></code>
-
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="35" src="https://avatars.githubusercontent.com/u/28900900?v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
@@ -23,6 +17,7 @@
 ##### NOW
 
 - ✨ In a continuous journey to hone my DevOps skills!
+- 📎 Take a look at [my resume](https://drive.google.com/file/d/18poZnC7uS-DQrtVzEVKUPzeiHopgrxPZ/view?usp=sharing)
 
 
 ##### BIO
